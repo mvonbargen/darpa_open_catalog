@@ -49,7 +49,7 @@
   "Program Teams":["New York Institute of Technology"],
   "Software":"Keystroke, Pausality, and Linguistic Feature Extractors for Typing Data",
   "Public Code Repo":"anna.weeks@us.af.mil",
-  "Description":"The software implements feature extractor modules for typing data used in AA Phase 1 effort. The code is useful only when Louisiana Tech's typing data is available. Because Louisiana Tech has the ownership of the data, we cannot provide the data. ",
+  "Description":"This software implements feature extractor modules for typing data used in the AA Phase 1 effort. The code is useful only when Louisiana Tech's typing data is available. Because Louisiana Tech owns the data, we cannot provide the data. ",
   "License":"Government Purpose Rights (GPR)",
   "Categories":["Identify Management"]
 },
