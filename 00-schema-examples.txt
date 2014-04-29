@@ -25,7 +25,13 @@ Software:
     "Description":"Tangelo is a flexible HTML5 web server architecture that...",
     "Internal Code Repo":"tools\\visualizations\\kitware\\tangelo; tools\\visualizations\\kitware\\xdata-apps",
     "License":["ALv2"],
+    "Platform Requirments":""
+    "Dependent Modules":[""]
+    "Dependent Module URLs":[""]
+    "Component Modules":[""]
+    "Component Module URLs":[""]
     "Languages":["Javascript","Python"],
+    "Industry Target":[""]
     "Categories":["Visualization"]
 }
 
