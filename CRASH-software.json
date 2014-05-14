@@ -75,7 +75,7 @@
     "External Link":"http://ori.scs.stanford.edu/",
     "Public Code Repo":"http://bitbucket.org/orifs/ori",
     "Instructional Material":"",
-    "Description":"Ori is a distributed file system built for offline operation and empowers the user with control over synchronization operations and conflict resolution. We provide history through light weight snapshots and allow users to verify the history has not been tampered with. Through the use of replication instances can be resilient and recover damaged data from other nodes.",
+    "Description":"Ori is a distributed file system built for offline operation and empowers the user with control over synchronization operations and conflict resolution. We provide history through light weight snapshots and allow users to verify the history has not been tampered with. Through the use of replication instances, Ori can be resilient and recover damaged data from other nodes.",
     "License":["MIT"],
     "Languages":["C++"],
     "Platform Requirements":[""],
