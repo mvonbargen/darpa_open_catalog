@@ -3313,5 +3313,32 @@
         ],
         "New Date":"20140423",
         "Update Date":""
+    },
+    {
+        "DARPA Program":"XDATA",
+        "Program Teams":[
+            "Draper Laboratory"
+        ],
+        "Title":"Modeling Strategic Use of Human Computer Interfaces with Novel Hidden Markov Models",
+        "Authors":[
+            "Laura J. Mariano",
+            "Joshua C. Poore",
+            "David M. Krum",
+            "Jana L. Schwartz",
+            "William D. Coskren",
+            "Eric M. Jones"
+        ],
+        "Link":"http://journal.frontiersin.org/article/10.3389/fpsyg.2015.00919/abstract",
+        "Categories":[
+            "Human computer interaction (HCI)"
+        ],
+        "Subcategories":[
+            "HCI design and evaluation methods"
+        ],
+        "ACM 1998 classification code":[
+            "H.5.2"
+        ],
+        "New Date":"20150715",
+        "Update Date":""
     }
 ]
